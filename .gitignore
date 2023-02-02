@@ -1,0 +1,5 @@
+vendor/
+node_modules/
+config/Config.php
+public/assets/css/input.css
+.env
