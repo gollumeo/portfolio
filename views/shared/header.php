@@ -6,9 +6,23 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/css/output.css">
-    <title>Hackers Poulette - Contact us!</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arima:wght@100;200;300;400;500;600;700&display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+          rel="stylesheet">
+    <title>Pierre Mauriello</title>
 </head>
-<body class="min-h-screen flex flex-col space-between items-center bg-slate-900 text-slate-50 font-['Montserrat_Alternates']">
-<header class="w-full text-center text-2xl bg-slate-700 text-slate-100 h-16 shadow-2xl flex items-center justify-center">
-    <div class="logo font-['Montserrat_Alternates']">Hackers Poulette</div>
+<body class="min-h-screen flex flex-col space-between items-center bg-black text-slate-50 font-['Montserrat_Alternates']">
+<header class="w-full text-center text-2xl bg-neutral-900 text-slate-100 h-16 shadow-2xl flex flex-row items-center">
+    <nav class="flex flex-row justify-between items-around w-screen mr-4">
+        <span class="logo text-left ml-4 font-['Arima'] italic text-3xl text-orange-600 font-extrabold">Pierre Mauriello</span>
+        <div class="links text-right flex gap-4 items-center text-base">
+            <a href="#">Home</a>
+            <a href="#">Projects</a>
+            <a href="#">Contact</a>
+        </div>
+    </nav>
 </header>
