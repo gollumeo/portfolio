@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/assets/css/output.css">
+    <link rel="stylesheet" href="/./public/assets/css/output.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,7 +18,7 @@
 <body class="min-h-screen flex flex-col space-between items-center bg-black text-slate-50 font-['Montserrat_Alternates']">
 <header class="w-full text-center text-2xl bg-neutral-900 text-slate-100 h-16 shadow-2xl flex flex-row items-center">
     <nav class="flex flex-row justify-between items-around w-screen mr-4">
-        <span class="logo text-left ml-4 font-['Arima'] italic text-3xl text-orange-600 font-extrabold">Pierre Mauriello</span>
+        <span class="logo text-left ml-4 font-['Arima'] italic sm:text-3xl text-xl text-orange-600 font-extrabold">Pierre Mauriello</span>
         <div class="links text-right flex gap-4 items-center text-base">
             <a href="#">Home</a>
             <a href="#">Projects</a>
