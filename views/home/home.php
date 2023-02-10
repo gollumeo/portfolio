@@ -1,6 +1,6 @@
 <main class="flex-1 flex flex-row items-center bg-slate-850 w-4/5 h-screen">
     <section class="mt-4 rounded-2xl shadow-gray-900 flex flex-col flex-wrap h-full">
-        <article class="text-justify p-6">
+        <article class="text-justify p-4">
             <div class="photo absolute">
                 <img src="" alt="">
                 <img src="" alt="">
@@ -18,7 +18,7 @@
                 international trades field, holding several roles including road operator, customer service
                 representative, freight forwarder, air freight forwarder, and project manager.</p>
         </article>
-        <article class="text-justify p-6">
+        <article class="text-justify p-4">
             <h3 class="mt-4 text-xl font-semibold text-orange-600">Current work/projects</h3>
             <p class="my-6 text-base xl:text-lg">I am currently pursuing my dream of becoming a backend developer at
                 <span
@@ -28,11 +28,12 @@
                 hands-on training I need to reach my goals, and I am eagerly soaking up every bit of knowledge and
                 experience.</p>
         </article>
-        <article class="text-justify p-6">
+        <article class="text-justify p-4">
             <h3 class="mt-4 text-xl font-semibold text-orange-600">Career goals</h3>
             <p class="my-6 text-base xl:text-lg">Upon completing my studies at BeCode on <span
                         class="text-orange-500 font-semibold">May 29th</span>, I am eager to join the tech industry as a
-                highly skilled backend developer, with a focus on <span class="text-orange-500 font-semibold">PHP and Laravel</span>.
+                <span
+                        class="text-orange-500 font-semibold">backend</span> developer, with a focus on <span class="text-orange-500 font-semibold">PHP and Laravel</span>.
                 I am confident in my abilities and eager to bring my diverse background, passion for programming, and
                 drive
                 to succeed to a new role in the industry.</p>
