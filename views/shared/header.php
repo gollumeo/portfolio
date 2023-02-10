@@ -5,6 +5,12 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="In a need of a backend developer?">
+    <meta property="og:title" content="Pierre Mauriello - Backend Developer">
+    <meta property="og:site_name" content="pierre-mauriello">
+    <meta property="og:type" content="portfolio">
+    <meta property="og:image" content="https://dev.pierre-mauriello.be/public/assets/img/gollumeo.png">
+    <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <link rel="stylesheet" href="/./public/assets/css/output.css">
     <link rel="shortcut icon" href="/./public/assets/img/gollumeo.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,7 +28,7 @@
                     href="/">Pierre Mauriello</a></span>
         <div class="links text-right flex gap-4 items-center text-base">
             <a href="/">Home</a>
-            <a href="#">Projects</a>
+            <a href="./projects">Projects</a>
             <a href="#">Contact</a>
         </div>
     </nav>

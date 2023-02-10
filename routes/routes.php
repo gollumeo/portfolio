@@ -14,4 +14,10 @@ $router->get('/', function() {
     require_once __DIR__ . '/../views/shared/footer.php';
 });
 
+$router->get('/projects', function() {
+    require_once __DIR__ . '/../views/shared/header.php';
+    require_once __DIR__ . '/../views/home/projects.php';
+    require_once __DIR__ . '/../views/shared/footer.php';
+});
+
 $router->run();
